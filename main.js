@@ -3,7 +3,7 @@
  * A játék 5 véletlenszerű kérdést tesz fel. Kiírja a lehetséges válaszokat a játékos válaszhat 1-et.
  * Folyamatosan kiírja, hogy hányadik kérdésnél járunk.
  * Miután elfogytak a kérdések, a játék véget ér és kiértékelődik. Gombnyomásra részletesen végigmehetünk a kérdéseken és megjelennek játékos válaszai megjelölve a jó válaszokkal.
- * Gombnyomásra a játék újrakezdhető.
+ * Gombnyomásra a játék újrakezdhető....
  * 
  * RANDOMIZÁLNI a kérdéseket és a válaszokat
  * 
